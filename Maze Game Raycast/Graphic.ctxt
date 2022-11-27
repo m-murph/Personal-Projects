@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Graphic
+comment0.text=\r\n\ This\ stores\ all\ the\ immages\ that\ get\ used\ as\ graphics\ for\ the\ game.\r\n\r\n\ @author\ Mihcael\ Murphy\r\n\ @version\ 1\r\n\ @param\ wood\ is\ the\ texture\ for\ the\ unbreakable\ block\ around\ the\ map.\r\n\ @param\ stone\ is\ the\ "you\ win"\ block.\r\n\ @param\ dirt\ is\ the\ brick\ block.\r\n\ @param\ display\ is\ the\ array\ of\ all\ the\ pixels\ in\ the\ game\ window\r\n\ @param\ SIZE\ is\ the\ size\ of\ the\ picture.\r\n\ @param\ loc\ is\ the\ location\ of\ an\ immage.\r\n
+comment1.params=location\ size
+comment1.target=Graphic(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ load()
+numComments=3

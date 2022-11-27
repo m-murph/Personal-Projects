@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=GUI
+comment0.text=\r\n\ GUI\ holds\ all\ the\ menus\ and\ buttons\ used\ in\ the\ game.\ it\ also\ contains\ the\ main\ method.\r\n\ @author\ Michael\ Muphy\r\n\ @version\ 1\r\n\ @param\ menu\ is\ the\ game\ menu\ that\ first\ pops\ up.\r\n\ @param\ popup\ is\ the\ popup\ menu\ that\ you\ can\ use\ durring\ editing.\r\n\ @param\ playing\ starts\ the\ pre-made\ maze\r\n\ @param\ creating\ starts\ a\ blank\ maze\ and\ allows\ for\ editing\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ start()
+comment3.params=a
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=a
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ openPopUpMenu()
+comment6.params=a
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=b
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=c
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=9

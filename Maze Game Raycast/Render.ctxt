@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Render
+comment0.text=\r\n\ Render\ handles\ all\ the\ calculations\ for\ rendering\ 3d\r\n\r\n\ @author\ Michael\ Murphy\ (with\ much\ help\ from\ lodev.org/cgtutor/raycasting.html\#Textured_Raycaster)\r\n\ @version\ 3\r\n\ @param\ map\ is\ the\ map\ of\ the\ maze\r\n\ @param\ mapW\ is\ the\ width\ of\ the\ map\r\n\ @param\ mapH\ is\ the\ height\ of\ the\ map\r\n\ @param\ graphic\ is\ the\ list\ of\ textures\r\n\ @param\ w\ is\ the\ width\ of\ the\ game\ window\r\n\ @param\ h\ is\ the\ hight\ of\ the\ game\ window\r\n\ @param\ darkGreen\ is\ the\ color\ dark\ green\ (used\ for\ making\ the\ "floor"\ look\ like\ grass)\r\n\ @param\ blue\ the\ color\ blue\ (used\ for\ making\ the\ "sky"\ look\ blue)\r\n
+comment1.params=m\ graph\ wi\ hi\ windowW\ windowH
+comment1.target=Render(int[][],\ java.util.ArrayList,\ int,\ int,\ int,\ int)
+comment2.params=player\ display
+comment2.target=int[]\ update(Player,\ int[])
+numComments=3

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Game\ defines\ all\ the\ variables\ for\ the\ game.\r\n\r\n\ @author\ Michael\ Murphy\r\n\ @version\ 1\r\n\ @param\ display\ an\ array\ with\ all\ the\ data\ for\ every\ pixel\ in\ the\ game\ window.\r\n\ @param\ Graphic\ an\ array\ list\ with\ all\ the\ textures\ stored\ in\ it.\r\n\ @param\ run\ sets\ weather\ the\ game\ is\ running\ or\ not.\r\n\ @param\ breakable\ decides\ if\ you\ can\ edit\ the\ map\r\n\ @param\ player\ is\ the\ player\ in\ the\ game.\r\n\ @param\ render\ is\ where\ the\ calculations\ for\ 3d\ happen.\r\n\ @param\ therad,\ im\ not\ sure\ what\ this\ does,\ I\ am\ carrying\ it\ over\ from\ other\ 3d\ game\ examples\r\n\ @param\ pic\ is\ the\ picture\ that\ is\ updated\ to\ the\ game\ window\r\n\ @param\ map\ stores\ all\ the\ data\ for\ the\ maze\ map.\r\n
+comment1.params=type
+comment1.target=Game(java.lang.String)
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=void\ draw()
+comment5.params=x\ y\ block
+comment5.target=void\ add(int,\ int,\ int)
+comment6.params=x\ y
+comment6.target=void\ remove(int,\ int)
+comment7.params=
+comment7.target=void\ unedit()
+numComments=8

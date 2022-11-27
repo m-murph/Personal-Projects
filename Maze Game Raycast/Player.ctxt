@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Player\ has\ and\ caluclates\ all\ the\ actions\ the\ player\ can\ do.\r\n\r\n\ @author\ Michael\ Murphy\r\n\ @version\ 1\r\n\ @param\ xPos\ is\ the\ players\ x\ position\ in\ the\ maze\r\n\ @param\ yPos\ is\ the\ players\ y\ position\ in\ the\ maze\r\n\ @param\ xVec\ is\ the\ x\ component\ for\ a\ vector\ that\ points\ in\ the\ same\ direction\ as\ the\ player\r\n\ @param\ yVec\ is\ the\ y\ component\ of\ that\ vector\r\n\ @param\ xPlane\ is\ the\ x\ component\ of\ a\ vector\ that\ borders\ the\ players\ field\ of\ view\r\n\ @param\ yPlane\ is\ the\ y\ componentt\ of\ that\ vector\r\n\ @param\ left\ is\ true\ when\ the\ player\ is\ rotating\ left\r\n\ @param\ right\ is\ true\ when\ rotating\ right\r\n\ @param\ foward\ is\ true\ when\ moving\ fowrward\r\n\ @param\ back\ is\ true\ when\ moving\ back\r\n\ @param\ SPEED\ defines\ the\ players\ movement\ speed\r\n\ @param\ RSPEED\ defines\ the\ players\ rotation\ speed\r\n
+comment1.params=x\ y\ xv\ yv\ xp\ yp
+comment1.target=Player(double,\ double,\ double,\ double,\ double,\ double)
+comment2.params=key
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment3.params=key
+comment3.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment4.params=a
+comment4.target=void\ keyTyped(java.awt.event.KeyEvent)
+comment5.params=map
+comment5.target=void\ update(int[][])
+comment6.params=
+comment6.target=void\ teleport()
+numComments=7
