@@ -1,5 +1,5 @@
 #######################################################################  
-# Program Filename: FinalProject.py
+# Program Filename: BounceSim.py
 # Author: Michael Murphy  
 # Date: 06-4-2022
 # Description: Simulates a particle in a 10x10 2 dimentional box
